@@ -1,2 +1,2 @@
 # RAMSOWARE
-this is ramsoware in bat,don't is joke
+this is ramsoware in python,don't is joke
