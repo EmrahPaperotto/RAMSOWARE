@@ -1,10 +1,3 @@
-# Python bytecode 2.7 (62211)
-# Decompiled from: Python 2.7.14 (default, Sep 25 2017, 09:53:22) 
-"""
-
-Kirk encryptor
-
-"""
 import tkMessageBox, Tkinter as tk
 from Crypto.Cipher import AES
 from Crypto.PublicKey import RSA
